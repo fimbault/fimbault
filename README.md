@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on reframing digital access. I'm co-editor of IETF GNAP and building open source
+- 🔭 I’m currently working on reframing digital access. I'm co-editor of [IETF GNAP](https://github.com/ietf-wg-gnap/gnap-core-protocol) and building open source
 - 🌱 I’m currently learning to be a dad
 - 👯 I prefer to program 🦀s than to eat them.  
 - 🤔 I’m a serial entrepreneur, currently building acert.io. Please reach out if you're interested.
