@@ -1,4 +1,4 @@
-### Hi there 👋
+### ∀x (x=x); I work on identity and digital access
 
 <!--
 **fimbault/fimbault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
